@@ -11,7 +11,7 @@ const Home = () => {
     <div className={styles.mainContainer}>
       <Navbar />
       <div className={styles.firstContainer}>
-        <h1 className={styles.heading}>New Arrival</h1>
+        <h1 className={styles.heading}>New Smart Phones </h1>
         <img className={styles.secondBanner} width='86%' height='60%' src={arrive1} />
       </div>
     </div>
